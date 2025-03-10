@@ -1,7 +1,8 @@
-afdsa
-fa
-f
+			-INTRO_+
+SOme text adsafsaf
+faf
 asf
-a
 sf
-sfsfsf
+
+
+-END_+
