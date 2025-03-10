@@ -1,8 +1,7 @@
-			-INTRO_+
-SOme text adsafsaf
-faf
+afdsa
+fa
+f
 asf
+a
 sf
-
-
--END_+
+sfsfsf
