@@ -8,5 +8,8 @@ fs.writeFile('data.json', a, (err) => {
     } else {
       console.log('Data saved to data.json');  // Повідомлення про успіх
     }
-  });	
+  });
 
+function test(){
+	return "I am test function";
+}
