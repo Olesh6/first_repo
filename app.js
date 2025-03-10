@@ -10,3 +10,7 @@ for(let i=0; i<100; i++){
 function cat(){
   console.log("I am cat function")
 }
+
+function cdog(){
+  console.log("I am dog function")
+}
